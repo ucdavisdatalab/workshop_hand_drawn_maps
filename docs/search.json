@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "WORKSHOP_TITLE",
+    "section": "",
+    "text": "Overview\nYOUR DESCRIPTION, PREREQUISITES, ETC",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#workshop-description",
+    "href": "index.html#workshop-description",
+    "title": "WORKSHOP_TITLE",
+    "section": "Workshop Description",
+    "text": "Workshop Description\nIn this workshop, we’ll explore drawing maps by hand rather than using digital tools. This skill is useful for helping the designer deeply understand an area, but it is also a method of self-expression. The fact that it can be fun should also not be minimized.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#materials",
+    "href": "index.html#materials",
+    "title": "WORKSHOP_TITLE",
+    "section": "Materials",
+    "text": "Materials\nYou may choose to work in either analog (paper and pencil) or in a digital format (provided you already have experience with your chosen illustration software). The workshop itself will focus on working with analog tools.\nRecommended:\n\nPaper\nPencils\nEraser (bigger than the one that comes on the back of your pencil)\nPens\nColored pencils, marker, or crayons (optional)\nA device with internet access to look up reference materials\n\nFor those with previous experience working in digital illustration software such as Inkscape or Illustrator, participants may choose to work in these tools rather than traditional pen and paper, but the workshop will not cover how to use these tools.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "WORKSHOP_TITLE",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this workshop, learners will be able to:\n\nExplain why drawing maps by hand is beneficial and when to use this format over digital methods\nImplement a workflow for drawing maps by hand\nDesign cartographic elements for their maps",
+    "crumbs": [
+      "Overview"
+    ]
+  }
+]
