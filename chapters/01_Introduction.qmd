@@ -17,7 +17,7 @@ The maps we work on today in this workshop can be of your own design. They can r
 
 
 
-# Citations
+## Citations
 
 Principles of Cartography https://search.library.ucdavis.edu/permalink/01UCD_INST/9fle3i/alma990012753470403126 
 
@@ -25,7 +25,7 @@ General Cartography https://search.library.ucdavis.edu/permalink/01UCD_INST/9fle
 
 
 
-# Additional Resource
+## Additional Resource
 
 [Erwin Raisz, cartographer](https://www.raiszmaps.com/about-erwin-j-raisz/)
 

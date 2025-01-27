@@ -15,8 +15,9 @@ book:
   chapters:
     - "index.qmd"
     # List your chapters in order here.
+    - "chapters/01_Introduction.qmd"
     - "chapters/references.qmd"
-    - "chapters/assessment.qmd"
+    #- "chapters/assessment.qmd"
 
   # Formatting (be careful about changing these):
   date: now
