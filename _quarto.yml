@@ -16,7 +16,13 @@ book:
     - "index.qmd"
     # List your chapters in order here.
     - "chapters/01_Introduction.qmd"
-    - "chapters/references.qmd"
+    - "chapters/02_Prepare.qmd"
+    - "chapters/03_Icons.qmd"
+    - "chapters/04_pencil_sketch.qmd"
+    - "chapters/05_Ink.qmd"
+    - "chapters/06_color.qmd"
+    - "chapters/additional_resources.qmd"
+    #- "chapters/references.qmd"
     #- "chapters/assessment.qmd"
 
   # Formatting (be careful about changing these):

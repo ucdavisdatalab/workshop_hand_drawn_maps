@@ -5,10 +5,12 @@
 
 After completing this chapter, learners should be able to:
 
-* YOUR LEARNING GOALS
-:::
+ * Explain why drawing maps by hand is beneficial and when to use this format over digital methods
+ * Implement a workflow for drawing maps by hand
+ * Design cartographic elements for their maps
+ * Find and use reference materials
 
-YOUR DESCRIPTION, PREREQUISITES, ETC
+:::
 
 ## Workshop Description
 
@@ -16,24 +18,19 @@ In this workshop, we'll explore drawing maps by hand rather than using digital t
 
 ## Materials
 
-You may choose to work in either analog (paper and pencil) or in a digital format (provided you already have experience with your chosen illustration software).  The workshop itself will focus on working with analog tools.
+The following materials are recommended to fully participate in this workshop:
 
-Recommended:
-
- * Paper
+ * Paper (at least 2 sheets)
  * Pencils
  * Eraser (bigger than the one that comes on the back of your pencil)
  * Pens
  * Colored pencils, marker, or crayons (optional)
  * A device with internet access to look up reference materials
+ 
+Simple, inexpensive materials are fine for this workshop. Notebook or printer paper and the pens and pencils you have on hand will be sufficient to get started. A large eraser is highly recommended.
 
 For those with previous experience working in digital illustration software such as Inkscape or Illustrator, participants may choose to work in these tools rather than traditional pen and paper, but the workshop will not cover how to use these tools.  
 
+## Prerequisites
 
-## Learning Objectives
-
-By the end of this workshop, learners will be able to:
-
- * Explain why drawing maps by hand is beneficial and when to use this format over digital methods
- * Implement a workflow for drawing maps by hand
- * Design cartographic elements for their maps
+This is a beginning level workshop. No previous experience is required in either art or map making.
