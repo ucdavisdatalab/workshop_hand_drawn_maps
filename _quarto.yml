@@ -8,10 +8,10 @@ project:
 
 book:
   # Metadata (fill this in):
-  repo-url: "https://github.com/ucdavisdatalab/WORKSHOP_NAME"
-  title: "WORKSHOP_TITLE"
+  repo-url: "https://ucdavisdatalab.github.io/workshop_hand_drawn_maps/"
+  title: "Hand Drawn Maps"
   author:
-    - "AUTHOR_NAME"
+    - "Michele Tobias"
   chapters:
     - "index.qmd"
     # List your chapters in order here.
