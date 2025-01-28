@@ -39,15 +39,15 @@ To get started:
 
 _[UC Davis DataLab][datalab]_  
 _QUARTER YEAR_  
-_Author(s): YOUR_NAME_  
-_Maintainer: MAINTAINER_NAME <<MAINTAINER_EMAIL@ucdavis.edu>>_
+_Author(s): Michele Tobias  
+_Maintainer: Michele Tobias <<mmtobias@ucdavis.edu>>_
 
 The reader for this workshop is [here][reader].
 
 SHORT DESCRIPTION OF WORKSHOP
 
 [datalab]: https://datalab.ucdavis.edu/
-[reader]: https://ucdavisdatalab.github.io/YOUR_REPOSITORY/
+[reader]: https://ucdavisdatalab.github.io/workshop_hand_drawn_maps/
 
 
 ## Contributing
