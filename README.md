@@ -35,12 +35,12 @@ To get started:
 
 -----
 
-# Workshop: WORKSHOP_TITLE
+# Workshop: Hand Drawn Maps
 
-_[UC Davis DataLab][datalab]_  
-_QUARTER YEAR_  
-_Author(s): Michele Tobias  
-_Maintainer: Michele Tobias <<mmtobias@ucdavis.edu>>_
+[UC Davis DataLab][datalab]_  
+Spring 2025  
+Author(s): Michele Tobias  
+Maintainer: Michele Tobias <<mmtobias@ucdavis.edu>>_
 
 The reader for this workshop is [here][reader].
 
