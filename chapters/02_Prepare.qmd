@@ -2,7 +2,7 @@
 
 Before we can start drawing, we need to do a few steps to prepare:
 
-## 1. Envision Your Map
+## Envision Your Map
 
 What area do we plan to make a map of?  For the text and examples in this workshop, we'll make a map of Lake Spafford in the UC Davis Arboretum near Mrak Hall. You could choose any area you like.
 
@@ -14,7 +14,7 @@ What is the perspective of your map? Are you looking straight down (nadir) or ar
 
 
 
-## 2. Gather Reference Material
+## Gather Reference Material
 
 ### Maps for Reference
 
@@ -24,13 +24,15 @@ Early cartographers often copied work from other finished maps.  We'll follow th
 
 ### Icons & Style References
 
-![Landform examples from Erwin Raisz' *Principles of Cartography*](/images/landforms_raisz.jpg){fig-align="left"}
-
 Collect some materials to help provide inspiration. These materials could be work you admire from other cartographers or artists, colors you like, or visual textures you might use.
 
+![Landform examples from Erwin Raisz' *Principles of Cartography*](/images/landforms_raisz.jpg){fig-align="left"}
+
+![Bill Keane's Family Circus comic often featured maps of Jeffy's adventures and was featured in an <a href="https://www.npr.org/2011/11/11/142218444/bil-keanes-dotted-line-an-appreciation">NPR Article</a>)](https://media.npr.org/assets/img/2011/11/11/family-circus_footsteps_wide-df0b8eab5e9ee2b4033f50421c920ea4e119ad9d.jpg?s=1100&c=85&f=webp){fig-align="left"}
 
 
-## 3. Gather Drawing Materials
+
+## Gather Drawing Materials
 
 We'll need a few art supplies to get started:
 

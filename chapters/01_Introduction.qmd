@@ -12,6 +12,8 @@ Hand-drawn maps have applications as art, in designing board games, and illustra
 
 The maps we work on today in this workshop can be of your own design. They can represent a location that currently exists, or you could choose to represent a historical or future place, or one of your own imagination.  Our goal is to practice a technique.
 
+![A hand drawn map of Harvard by Erwin Raisz - see more of his work at the <a href="https://www.raiszmaps.com/about-erwin-j-raisz/other-maps-and-drawings/">Raisz Landform Maps website</a>](https://www.raiszmaps.com/wp-content/uploads/2017/10/Harvard.jpg){width=50%}
+
 
 ## Setting Our Intentions
 
