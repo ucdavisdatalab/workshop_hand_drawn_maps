@@ -6,7 +6,7 @@ Letter sized paper is a common resource, and it's probably what you're working w
 
 In the middle of your page, mark out a square that's about a quarter of the size. In this example, I've folded up a page into quarters, placed it in the  middle of the page I plant to draw on and traced my folded paper to make the area I want to draw in.
 
-![](/images/map_pencil_sketch.jpg)
+![A pencil sketch of our map.](/images/map_pencil_sketch.jpg){fig-align="left"}
 
 
 ## Priorities for Drawing

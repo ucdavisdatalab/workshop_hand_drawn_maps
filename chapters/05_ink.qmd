@@ -1,6 +1,6 @@
 # Ink Your Map
 
-![](/images/map_inked.jpg)
+![An inked version of our map.](/images/map_inked.jpg){fig-align="left"}
 
 Next, using a pen, we can add ink to our map over our pencil sketches.  We will need to ink our features in a different order than we drew them.
 
