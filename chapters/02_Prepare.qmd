@@ -20,11 +20,15 @@ What is the perspective of your map? Are you looking straight down (nadir) or ar
 
 ![A screen shot of Google Maps' imagery for Lake Spafford](/images/reference_material_google_maps.png){fig-align="left"}
 
+![A section of the UC Davis campus map from 2004](/images/example_campus2004.jpg)
+
 Early cartographers often copied work from other finished maps.  We'll follow this tradition. For our map, it's fairly easy to use online maps like [Google Maps](https://maps.google.com/). You could also reference the official online [UC Davis Campus Map](https://campusmap.ucdavis.edu/) or a printed version of it.  If you wanted to work on a version of this map that showed a historical point in time, you would want to reference older versions of the print campus map or aerial photographs. Some of these materials can be found in the [UC Davis Library's Map Collection](https://library.ucdavis.edu/archives-and-special-collections/our-collections/map-collection/).
 
 ### Icons & Style References
 
 Collect some materials to help provide inspiration. These materials could be work you admire from other cartographers or artists, colors you like, or visual textures you might use.
+
+![A hand drawn cartoon map of Downtown Davis from 1985](/images/example_davis1985.jpg)
 
 ![Landform examples from Erwin Raisz' *Principles of Cartography*](/images/landforms_raisz.jpg){fig-align="left"}
 
