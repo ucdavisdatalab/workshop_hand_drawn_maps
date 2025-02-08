@@ -1,0 +1,13 @@
+# Other Elements
+
+Many cartographers like to add additional elements to their maps to give the reader more information, or to enhance the themes of their design.  You might want to consider adding your own additional features.
+
+**Art:** many maps feature art in the margins of the map or even on the map itself to fill empty spaces. Fancy a sea serpent?
+
+**Title:** Include a title on your map. You could highlight it by placing the title in a decorative element like a banner.
+
+**North Arrow:** indicate the cardinal directions in your map with a north (or other direction) arrow. This is one place that has always been ripe with creative opportunity in map design.
+
+**Legend:** make sure your reader understands your symbols with an area dedicated to explaining each symbol.
+
+**Cartouche:** a decorative container that holds text related to your map. Typically a cartouche contains the map's title and the cartographer's name, but it also may include additional information the cartographer wants to convey.

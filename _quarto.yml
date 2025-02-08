@@ -21,6 +21,7 @@ book:
     - "chapters/04_pencil_sketch.qmd"
     - "chapters/05_Ink.qmd"
     - "chapters/06_color.qmd"
+    - "chapters/07_other_elements.qmd"
     - "chapters/additional_resources.qmd"
     #- "chapters/references.qmd"
     #- "chapters/assessment.qmd"

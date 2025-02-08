@@ -2,14 +2,40 @@
 
 Below are links to resources in the creation of this workshop that you may find helpful in the future as you explore hand drawn maps further:
 
-Books:
+## Books:
 
  * Raisz, Erwin. 1962. [Principles of Cartography]( https://search.library.ucdavis.edu/permalink/01UCD_INST/9fle3i/alma990012753470403126). McGraw-Hill, New York. 
  * Raisz, Erwin. 1938. [General Cartography]( https://search.library.ucdavis.edu/permalink/01UCD_INST/9fle3i/alma990017827800403126). McGraw-Hill, New York. 
 
-Websites:
+## Digital Art Software:
 
- * [Erwin Raisz, cartographer](https://www.raiszmaps.com/about-erwin-j-raisz/)
- * [Maps By Owen YouTube Channel](https://www.youtube.com/@MapsbyOwen)
- * [JP Coovert YouTube Channel](https://www.youtube.com/@JPCoovert)
- * [DiY LandArch YouTube Channel](https://www.youtube.com/@diylandarch)
+Open source, cross-platform software for art
+
+ * [Inkscape](https://inkscape.org/) - vector
+ * [Krita](https://krita.org/) - raster, animation
+ * [Blender](https://www.blender.org/) - raster, animation, 3D
+ * [GIMP](https://www.gimp.org/) - raster, image manipulation
+ 
+## Tutorials
+
+ * [DataLab's Cartography for Academic Publications](https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures) - many of the concepts described in this workshop apply to all cartography
+ * [Sarah Bell's tutorial for drawing hillshades by hand](https://www.sarahbellmaps.com/drawing-hillshade-by-hand-with-pencils-a-tutorial-with-time-lapse-videos)
+  * [Maps By Owen YouTube Channel](https://www.youtube.com/@MapsbyOwen) - focuses on fantasy maps
+ * [JP Coovert YouTube Channel](https://www.youtube.com/@JPCoovert) - focuses on fantasy maps
+ * [DiY LandArch YouTube Channel](https://www.youtube.com/@diylandarch) - focuses on techniques for Landscape Architecture
+ 
+## Art Inspiration:
+ 
+ * [Heather Gabriel Smith](https://www.heathergabrielsmith.ca/) - works in woodblock printing and other media
+ * [Sarah Bell] - digital and analog cartographer and font/typeface designer
+ * [Hannah Dormido](https://hannahdormido.com/nacis2021-music-feelings-and-style/) - reporter and cartographer; her swirly hand-drawn map style is now available in QGIS
+ * [Aly Miller](https://aly-miller.squarespace.com/illustrated-maps-by-aly-miller) - mid century modern styled maps
+ * [Molly O'Halloran](https://www.mollyohalloran.com/) - watercolor and pen & ink maps
+ * [Elizabeth Person](https://elizabethperson.com/) - watercolor maps
+ * [Michele Tobias](https://mtmaps.wordpress.com/) - one cell comic with a strong map theme
+ * [Jenny Sparks](https://jennisparks.com/Hand-Drawn-Map-of-Sydney) - combines oblique objects and lettering
+ * [Paula Scher](https://paulastribute.weebly.com/maps.html) - graphic designer
+ * [Bryan Hansel](https://northhouse.org/course-session/hand-drawn-maps-exploring-your-relationship-with-the-land-11-23-2024) - an accessible style beginners can emulate 
+ * [Anton Thomas](https://anton-thomas.myshopify.com/) - known for intricate, large, hand-drawn maps of the world
+  * [Erwin Raisz](https://www.raiszmaps.com/about-erwin-j-raisz/) - professional cartographer who worked in the first half of the 20th century
+  * [Osher Map Library's Women in Cartography Exhibit Online](https://oshermaps.org/exhibitions/women-in-cartography/section-2)

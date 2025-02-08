@@ -28,9 +28,9 @@ Early cartographers often copied work from other finished maps.  We'll follow th
 
 Collect some materials to help provide inspiration. These materials could be work you admire from other cartographers or artists, colors you like, or visual textures you might use.
 
-![A hand drawn cartoon map of Downtown Davis from 1985](/images/example_davis1985.jpg)
+![A hand drawn cartoon map of Downtown Davis from 1985 featuring an oblique perspective of points of interest is available in the UC Davis Library's Map Collection](/images/example_davis1985.jpg)
 
-![Landform examples from Erwin Raisz' *Principles of Cartography*](/images/landforms_raisz.jpg){fig-align="left"}
+![Landform examples drawn from an oblique perspective from Erwin Raisz' *Principles of Cartography*](/images/landforms_raisz.jpg){fig-align="left"}
 
 ![Bill Keane's Family Circus comic often featured maps of Jeffy's adventures and was featured in an <a href="https://www.npr.org/2011/11/11/142218444/bil-keanes-dotted-line-an-appreciation">NPR Article</a>)](https://media.npr.org/assets/img/2011/11/11/family-circus_footsteps_wide-df0b8eab5e9ee2b4033f50421c920ea4e119ad9d.jpg?s=1100&c=85&f=webp){fig-align="left"}
 
