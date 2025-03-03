@@ -84,7 +84,17 @@
     "href": "chapters/03_Icons.html",
     "title": "3  Icons",
     "section": "",
-    "text": "Before we start drawing our map, we need to plan how we will represent the items we include in our map and practice drawing them before we put them into the map.\nLet’s make a list of the things we think we’ll need to draw in our map of Lake Spafford:\n\nWater\nTrees\nBridges\nPathways\nRoads\nBuildings\nGrass\nField\n\nOn one of your sheets of paper, try drawing one or two versions of each of these things. Decide how much detail you need to include. Often simple is better for maps. Think about how these items look either from above or at an oblique angle, depending on the goal of your map. Maybe you want to mix nadir and oblique perspectives, depending on the item.\nUse varied line weights to add emphasis or imply detail. Thick, heavy lines will draw attention to an object. Thin lines are helpful when drawing details that add to the feel of the icon but aren’t the main point.\n\n\n\nPencil sketches of each icon we want to use in our map.\n\n\nOnce you have pencil sketches, it’s a good idea to try inking the icons before you draw the map to see how the pen changes things. Then erase the pencil marks. This will give you an idea of how the eraser will interact with your pens. You might need to adjust your drawings to accommodate the finished product. Also, it’s better to find out you need to wait longer for your ink to dry before you erase on your trial page than on your finished map! Smeared ink is particularly disheartening when you’ve spent a lot of time on a map.\n\n\n\nOur icons drawn with ink.\n\n\nYou’ll notice that I didn’t bother to ink the icon for grass that I really didn’t like. No need to spend time erasing, just move on.\nLooking for inspiration?\n\nThe USGS Topographic Map Symbols are a good reference to get you started\nSarah Bell’s tutorial for drawing hillshades by hand is a fantastic reference",
+    "text": "3.1 Looking for inspiration?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Icons</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/03_Icons.html#looking-for-inspiration",
+    "href": "chapters/03_Icons.html#looking-for-inspiration",
+    "title": "3  Icons",
+    "section": "",
+    "text": "The USGS Topographic Map Symbols are a good reference to get you started\nSarah Bell’s tutorial for drawing hillshades by hand is a fantastic reference\n\n\n\n\nErwin Raisz’ physiographic symbols have a three dimensional quality. (From General Cartogarphy)\n\n\n\n\n\nHow you represent items in your map depends on the scale you are working with. (From General Cartogarphy)",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Icons</span>"
     ]
@@ -154,7 +164,7 @@
     "href": "chapters/07_other_elements.html",
     "title": "7  Other Elements",
     "section": "",
-    "text": "Many cartographers like to add additional elements to their maps to give the reader more information, or to enhance the themes of their design. You might want to consider adding your own additional features.\nArt: many maps feature art in the margins of the map or even on the map itself to fill empty spaces. Fancy a sea serpent?\nTitle: Include a title on your map. You could highlight it by placing the title in a decorative element like a banner.\nNorth Arrow: indicate the cardinal directions in your map with a north (or other direction) arrow. This is one place that has always been ripe with creative opportunity in map design.\nLegend: make sure your reader understands your symbols with an area dedicated to explaining each symbol.\nCartouche: a decorative container that holds text related to your map. Typically a cartouche contains the map’s title and the cartographer’s name, but it also may include additional information the cartographer wants to convey.",
+    "text": "Many cartographers like to add additional elements to their maps to give the reader more information, or to enhance the themes of their design. You might want to consider adding your own additional features.\n\n\n\nIn this map of London republished in General Cartography, we see many elements added to the cartography, including art depicting buildings and people at work as well as a cartouche and decorative neatline.\n\n\nArt: many maps feature art in the margins of the map or even on the map itself to fill empty spaces. Fancy a sea serpent?\nTitle: Include a title on your map. You could highlight it by placing the title in a decorative element like a banner.\nNorth Arrow: indicate the cardinal directions in your map with a north (or other direction) arrow. This is one place that has always been ripe with creative opportunity in map design.\nLegend: make sure your reader understands your symbols with an area dedicated to explaining each symbol.\nCartouche: a decorative container that holds text related to your map. Typically a cartouche contains the map’s title and the cartographer’s name, but it also may include additional information the cartographer wants to convey.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Other Elements</span>"
     ]
