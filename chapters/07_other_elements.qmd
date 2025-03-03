@@ -2,6 +2,8 @@
 
 Many cartographers like to add additional elements to their maps to give the reader more information, or to enhance the themes of their design.  You might want to consider adding your own additional features.
 
+![In this map of London republished in *General Cartography*, we see many elements added to the cartography, including art depicting buildings and people at work as well as a cartouche and decorative neatline.](/images/example_london_raisz.jpg){fig-align="left"}
+
 **Art:** many maps feature art in the margins of the map or even on the map itself to fill empty spaces. Fancy a sea serpent?
 
 **Title:** Include a title on your map. You could highlight it by placing the title in a decorative element like a banner.

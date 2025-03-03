@@ -25,7 +25,11 @@ Once you have pencil sketches, it's a good idea to try inking the icons before y
 
 You'll notice that I didn't bother to ink the icon for grass that I really didn't like. No need to spend time erasing, just move on.
 
-Looking for inspiration? 
+## Looking for inspiration? 
 
  * The [USGS Topographic Map Symbols](https://pubs.usgs.gov/gip/TopographicMapSymbols/topomapsymbols.pdf) are a good reference to get you started
  * [Sarah Bell's tutorial for drawing hillshades by hand](https://www.sarahbellmaps.com/drawing-hillshade-by-hand-with-pencils-a-tutorial-with-time-lapse-videos) is a fantastic reference
+ 
+![Erwin Raisz' physiographic symbols have a three dimensional quality. (From *General Cartogarphy*)](/images/example_physiographic_symbols_raisz.jpg){fig-align="left"}
+
+![How you represent items in your map depends on the scale you are working with. (From *General Cartogarphy*)](/images/city_symbols_raisz.jpg){fig-align="left"}
