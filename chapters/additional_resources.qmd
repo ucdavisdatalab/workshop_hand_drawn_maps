@@ -27,7 +27,7 @@ Open source, cross-platform software for art
 ## Art Inspiration:
  
  * [Heather Gabriel Smith](https://www.heathergabrielsmith.ca/) - works in woodblock printing and other media
- * [Sarah Bell] - digital and analog cartographer and font/typeface designer
+ * [Sarah Bell](https://www.sarahbellmaps.com/) - digital and analog cartographer and font/typeface designer
  * [Hannah Dormido](https://hannahdormido.com/nacis2021-music-feelings-and-style/) - reporter and cartographer; her swirly hand-drawn map style is now available in QGIS
  * [Aly Miller](https://aly-miller.squarespace.com/illustrated-maps-by-aly-miller) - mid century modern styled maps
  * [Molly O'Halloran](https://www.mollyohalloran.com/) - watercolor and pen & ink maps
